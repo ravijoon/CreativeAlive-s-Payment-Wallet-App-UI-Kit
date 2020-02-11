@@ -36,6 +36,5 @@ Available Now on GumRoad
 https://gum.co/paymentkit
 
 
-**Download Free Sample XD File**
-
+<a href="https://github.com/ravijoon/CreativeAlive-s-Payment-Wallet-App-UI-Kit/blob/master/Free%20Sample.zip?raw=true">**Download Free Sample XD File**</a>
 
