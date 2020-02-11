@@ -7,6 +7,8 @@ At Adobe XD version you will find set of icons are ready and marked for export. 
 
 <a href="https://github.com/ravijoon/CreativeAlive-s-Payment-Wallet-App-UI-Kit/blob/master/Free%20Sample.zip?raw=true">**Download Free Sample XD File**</a>
 
+<img src="https://github.com/ravijoon/CreativeAlive-s-Payment-Wallet-App-UI-Kit/blob/master/Dribble.png?raw=true" />
+
 **Features**
 
 •  100+ ready to use components
@@ -37,6 +39,7 @@ At Adobe XD version you will find set of icons are ready and marked for export. 
 If you are not sure, you can email me at ravi[at]creativealive.com 👋🏼👋🏼
 
 Available Now on GumRoad
+
 https://gum.co/paymentkit
 
 
