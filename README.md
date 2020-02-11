@@ -24,5 +24,6 @@ Available Now on GumRoad
 https://gum.co/paymentkit
 
 
-*Download Free Sample XD File*
+**Download Free Sample XD File**
+
 
