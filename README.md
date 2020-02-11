@@ -30,7 +30,7 @@ Features
 •  Avatars - UI Faces
 
 
-If you are not sure, you can email me at ravi@creativealive.com 👋🏼👋🏼
+If you are not sure, you can email me at ravi[at]creativealive.com 👋🏼👋🏼
 
 Available Now on GumRoad
 https://gum.co/paymentkit
