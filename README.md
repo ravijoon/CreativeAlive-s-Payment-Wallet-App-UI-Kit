@@ -3,7 +3,11 @@ is the perfect fit for your next payment wallet app UI Design, it contains ready
 
 At Adobe XD version you will find set of icons are ready and marked for export. Other feature including Open Source Vector illustrations, free iOS Native Fonts, Scalable Material Icons, End to end full fledged application design are placed beautifully.
 
-Features
+
+
+<a href="https://github.com/ravijoon/CreativeAlive-s-Payment-Wallet-App-UI-Kit/blob/master/Free%20Sample.zip?raw=true">**Download Free Sample XD File**</a>
+
+**Features**
 
 •  100+ ready to use components
 
