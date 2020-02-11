@@ -36,11 +36,11 @@ At Adobe XD version you will find set of icons are ready and marked for export. 
 •  Avatars - UI Faces
 
 
-If you are not sure, you can email me at ravi[at]creativealive.com 👋🏼👋🏼
+If you are not sure, you can email me at **ravi[at]creativealive.com** 👋🏼👋🏼
 
-Available Now on GumRoad
+**Available Now on GumRoad**
 
-https://gum.co/paymentkit
+**https://gum.co/paymentkit**
 
 
 <a href="https://github.com/ravijoon/CreativeAlive-s-Payment-Wallet-App-UI-Kit/blob/master/Free%20Sample.zip?raw=true">**Download Free Sample XD File**</a>
