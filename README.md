@@ -3,20 +3,32 @@ is the perfect fit for your next payment wallet app UI Design, it contains ready
 
 At Adobe XD version you will find set of icons are ready and marked for export. Other feature including Open Source Vector illustrations, free iOS Native Fonts, Scalable Material Icons, End to end full fledged application design are placed beautifully.
 
-
 Features
+
 •  100+ ready to use components
+
 •  20+ Unique Layouts 
+
 •  Prototype Included - Play with XD
+
 •  Apple iPhone X Compatible
+
 •  1x Resolution
+
 •  iOS Native Font - SF Sanfrancisco
+
 •  Free Material Icons
+
 •  Design System Included
+
 •  Customizable Color Palette
+
 •  Typography
+
 •  Free Graphics
+
 •  Avatars - UI Faces
+
 
 If you are not sure, you can email me at ravi@creativealive.com 👋🏼👋🏼
 
